@@ -5,7 +5,7 @@ editable-emacs-keymaps-pdf
 
 This is a PDF to visually show your Emacs keymappings; the form fields are editable and color coded.  I have only tested this on two different PDF readers -- Evince and Acrobat Reader.  It does not work on Evince, and does work on Acrobat Reader (both Linux and Windows).  See http://lshort.github.io/emacs-init/KeyMap.pdf for an example of the two-page format.
 
-I would appreciate any feedback you might have.  At this point, this work is in an alpha release.  You can reach me at lee.o.short@gmail.com.
+I would appreciate any feedback you might have.  At this point, this work is in an alpha release.  You can reach me at lee.o.short . gmail @ com (or something much like that).
 
 **How to fill the fields**
 

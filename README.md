@@ -12,20 +12,30 @@ I would appreciate any feedback you might have.  At this point, this work is in 
 The keymap leaves space for 5 slots per key.  I use those 5 slots for C-<key>, C-x C-<key>, C-c C-<key>, C-h C-<key>, and M-<key>. So my "Key" section looks like:
 
 Key
-   C-
-   C-x C-
-   C-c C-
-   C-h C-
-   M-
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   C-
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    C-x C-
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    C-c C-
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    C-h C-
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    M-
 
 And one of my key entries looks like:
 
 F
-   move-end-of-line
-   zap-to-char
-   point-to-register
-   -
-   hippie-expand
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    move-end-of-line
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    zap-to-char
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    point-to-register
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    -
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    hippie-expand
 
 Together, these indicate that C-f is bound to move-end-of-line, C-x C-f is bound to zap to char, C-c C-f is bound to point-to-register, there is no binding for C-h C-f, and M-f is bound to hippie-expand.
 

@@ -28,3 +28,7 @@ F
    hippie-expand
 
 Together, these indicate that C-f is bound to move-end-of-line, C-x C-f is bound to zap to char, C-c C-f is bound to point-to-register, there is no binding for C-h C-f, and M-f is bound to hippie-expand.
+
+** License **
+
+"Editable Emacs Keymap PDF" by Lee Short is licensed under a Creative Commons Attribution 4.0 International License.  See http://creativecommons.org/licenses/by/4.0/ for details.
